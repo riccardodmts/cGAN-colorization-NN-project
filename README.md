@@ -63,4 +63,6 @@ In "losses" you find the .csv files with the losses obtained during the several 
 
 ## Results (visual example)
 
+Real images:
+
 ![real](https://user-images.githubusercontent.com/83876494/218174501-44801234-e4f9-4d83-b2db-8048f4eb2cbc.jpeg)
