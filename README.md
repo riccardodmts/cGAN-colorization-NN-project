@@ -4,6 +4,36 @@
 Original paper https://arxiv.org/abs/1611.07004
 
 
+## Content description
+
+### Notebooks
+
+You find these files in the "notebook" directory
+
+* COCO_animals_dataset.ipynb: notebook used for creating the .txt files for the datasets
+
+* cGAN_colorization_training.ipynb: notebook used for cGAN training
+
+* WGAN_colorization_training.ipynb: notebook used for WGAN training
+
+* Classifiers_evaluation.ipynb: notebook used for trainining the classifier C_c
+
+* Evaluation_Metrics.ipynb: notebook used for evaluating generators (and plots)
+
+Links_models.txt: you find the links to the .pt needed to load the trained models
+
+
+
+
+### Files used in order to create the datasets
+
+You find these files in the directory "datasets"
+
+* data_big_training.txt and data_small_training.txt: read the training notebooks and use them
+
+* test_animals.txt
+
+
 ## Links for models
 
 ### Generators
