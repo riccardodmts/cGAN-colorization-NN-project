@@ -2,6 +2,14 @@
 
 Original paper https://arxiv.org/abs/1611.07004
 
+
+## Links for models
+
+* WGAN: https://drive.google.com/file/d/1-56COshEqj9U4ld9sHfW0saI1nFBzSDt/view?usp=share_link
+* cGAN m=8, N=9.6K: https://drive.google.com/file/d/1--exxKfax4IRfiZg2NB3r9sNB2wUl-JU/view?usp=share_link
+* cGAN m=32, N= 9.6K: https://drive.google.com/file/d/1mZe-9ZUE7P0n_KqQnzXxk6DZFYDrjtVC/view?usp=share_link
+* cGAN m = 32, N=16K: https://drive.google.com/file/d/1-DBNWlS47yHOwZWpYDuYuNW5cLbgb-kB/view?usp=share_link
+
 Shrek is love, Shrek is life
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡴⠖⠛⠉⠉⠉⠙⠲⢄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
