@@ -3,12 +3,16 @@
 
 Original paper https://arxiv.org/abs/1611.07004
 
+## Table of contents
 
-## Content description
+* [1 Content description](#1-Content-description)
+* [2 Links for models](#2-Links-for-models)
 
-### Notebooks
+## 1 Content description
 
-You find these files in the "notebook" directory
+### 1.1 Notebooks
+
+You find these files in the "notebooks" directory
 
 * COCO_animals_dataset.ipynb: notebook used for creating the .txt files for the datasets
 
@@ -20,12 +24,9 @@ You find these files in the "notebook" directory
 
 * Evaluation_Metrics.ipynb: notebook used for evaluating generators (and plots)
 
-Links_models.txt: you find the links to the .pt needed to load the trained models
 
 
-
-
-### Files used in order to create the datasets
+### 1.2 Files used in order to create the datasets
 
 You find these files in the directory "datasets"
 
@@ -34,16 +35,21 @@ You find these files in the directory "datasets"
 * test_animals.txt
 
 
-## Links for models
+### 1.3 Losses
 
-### Generators
+In "losses" you find the .csv files with the losses obtained during the several trainings
+
+
+## 2 Links for models
+
+### 2.1 Generators
 
 * WGAN: https://drive.google.com/file/d/1-56COshEqj9U4ld9sHfW0saI1nFBzSDt/view?usp=share_link
 * cGAN m=8, N=9.6K: https://drive.google.com/file/d/1--exxKfax4IRfiZg2NB3r9sNB2wUl-JU/view?usp=share_link
 * cGAN m=32, N= 9.6K: https://drive.google.com/file/d/1mZe-9ZUE7P0n_KqQnzXxk6DZFYDrjtVC/view?usp=share_link
 * cGAN m = 32, N=16K: https://drive.google.com/file/d/1--Ff6eXKU81SMNBtS5FXeLV6NMtWOTpC/view?usp=share_link
 
-### Classifiers:
+### 2.2 Classifiers:
 * vgg16 (used for the metric 1 and 2): https://drive.google.com/file/d/1vl9i0lGVEW7f0Y-sWJLOgmMpG56_Tled/view?usp=share_link
 
 * vgg16 (used for the metric 3): https://drive.google.com/file/d/1-JlZdvmMEJEHlWvZvYX118M_eWzPIdd0/view?usp=share_link
