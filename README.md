@@ -19,7 +19,6 @@ Original paper https://arxiv.org/abs/1611.07004
 
 #### Here we have all the pretrained classifiers for the metric 3 (weight comparison)
 
-* vgg16 real classifier: https://drive.google.com/file/d/1-JlZdvmMEJEHlWvZvYX118M_eWzPIdd0/view?usp=share_link
 * WGAN: https://drive.google.com/file/d/1-G2-FKH9dONevdm7sFLragB90piZUMWG/view?usp=share_link
 * cGAN m=8, N=9.6K: https://drive.google.com/file/d/1-ix-DU7bgK8rkGb-3frb7QOrtXJ2STYb/view?usp=share_link
 * cGAN m=32, N= 9.6K: https://drive.google.com/file/d/1-W-gekJpuU_z6rn4tJKRolxv5AMui04b/view?usp=share_link
