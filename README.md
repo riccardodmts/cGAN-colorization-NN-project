@@ -60,3 +60,7 @@ In "losses" you find the .csv files with the losses obtained during the several 
 * cGAN m=8, N=9.6K: https://drive.google.com/file/d/1-ix-DU7bgK8rkGb-3frb7QOrtXJ2STYb/view?usp=share_link
 * cGAN m=32, N= 9.6K: https://drive.google.com/file/d/1-W-gekJpuU_z6rn4tJKRolxv5AMui04b/view?usp=share_link
 * cGAN m = 32, N=16K: https://drive.google.com/file/d/1-Dn_aMjyVmNEEXGN9amandL0jSSMDFrV/view?usp=share_link
+
+## Results (visual example)
+
+![real](https://user-images.githubusercontent.com/83876494/218174501-44801234-e4f9-4d83-b2db-8048f4eb2cbc.jpeg)
