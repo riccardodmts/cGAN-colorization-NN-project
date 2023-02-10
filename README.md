@@ -64,5 +64,7 @@ In "losses" you find the .csv files with the losses obtained during the several 
 ## Results (visual example)
 
 Real images:
-
 ![real](https://user-images.githubusercontent.com/83876494/218174501-44801234-e4f9-4d83-b2db-8048f4eb2cbc.jpeg)
+
+Fake images (obtained with cGAN m=32, N = 9.6K):
+![fake](https://user-images.githubusercontent.com/83876494/218174776-6d97c024-31fc-4a09-8b9a-b52a5b9acad1.jpeg)
