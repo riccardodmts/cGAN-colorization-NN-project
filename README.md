@@ -1,7 +1,7 @@
 # cGAN-colorization-NN-project                                                                               
   
 
-Original paper https://arxiv.org/abs/1611.07004. NNs univeristy project. Have a look to *report.pdf* for explanations.
+Original paper https://arxiv.org/abs/1611.07004. NNs univeristy project. Have a look to *Secchiero_DeMonte_Cecchinato.pdf* for explanations.
 
 ## Table of contents
 
